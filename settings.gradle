@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Compose Nested Lazy"
 include ':app'
+include ':app:benchmark'
